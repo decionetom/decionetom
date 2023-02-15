@@ -1,16 +1,21 @@
-### Hi there 👋
+### Sobre mim
 
-<!--
-**decionetom/decionetom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Casado, na casa dos trinta, estudante no 4º ano de engenharia da computação pela UNIVESP, jogador de RPG assíduo, leitor ávido e descobridor de bandas de space rock._
 
-Here are some ideas to get you started:
+### Atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando engenharia da computação pela UNIVESP, atualmente no 4º ano da graduação, estagiando na [Compass](https://compass.uol/en/home/) ao mesmo tempo que balanceio isso com o trabalho em uma escola estadual.
+
+### TI
+
+Tenho uma paixão por linguagens de programação, em especial python, C e pela mais injustiçada de todas, Lisp. Gosto de sempre medir o desempenho do códigos que estou produzindo mesmo que muitas vezes não chegue a nenhum resultado especial.
+
+### Como me achar na internet
+
+Não sou adepto das redes sociais mas tenho algumas além de e-mail:
+
+[LinkedIn](https://www.linkedin.com/in/d%C3%A9cio-michellis-neto-884868208/)
+
+[Reddit](https://www.reddit.com/user/leitondelamuerte)
+
+_decioneto.m@gmail.com_
